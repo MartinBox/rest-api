@@ -8,9 +8,14 @@ import org.glassfish.jersey.server.ResourceConfig;
 
 /**
  * REST 主应用
- * 
- * @author waylau.com
- * 2015年3月3日
+ * The class RestApplication.
+ *
+ * Description: 
+ *
+ * @author: liuheng
+ * @since: 2015年12月29日	
+ * @version: $Revision$ $Date$ $LastChangedBy$
+ *
  */
 public class RestApplication extends ResourceConfig {
 

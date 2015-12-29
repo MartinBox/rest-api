@@ -12,9 +12,14 @@ import com.martin.rest.bean.MyBean;
 
 /**
  * 根资源 (暴露在"myresource"路径)
- * 
- * @author waylau.com 
- * 2015-3-1
+ * The class MyResource.
+ *
+ * Description: 
+ *
+ * @author: liuheng
+ * @since: 2015年12月29日	
+ * @version: $Revision$ $Date$ $LastChangedBy$
+ *
  */
 @Path("api")
 public class MyResource {

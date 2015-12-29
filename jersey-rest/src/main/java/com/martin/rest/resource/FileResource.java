@@ -19,6 +19,17 @@ import javax.ws.rs.core.Response;
 import org.glassfish.jersey.media.multipart.FormDataContentDisposition;
 import org.glassfish.jersey.media.multipart.FormDataParam;
 
+/**
+ * 根资源 (暴露在"myresource"路径)
+ * The class FileResource.
+ *
+ * Description: 
+ *
+ * @author: liuheng
+ * @since: 2015年12月29日	
+ * @version: $Revision$ $Date$ $LastChangedBy$
+ *
+ */
 @Path("files")
 public class FileResource {
 	
